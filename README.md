@@ -1,5 +1,5 @@
-#Authour: Simvic
 # Infinity - Bootstrap4 Coming Soon Template
+## Authour: Simvic
 
 Infinity is a responsive, modern and clean free construction/coming soon HTML template powered by Bootstrap4. This minimal template is packed with a countdown timer, contact form, about section where you can write a little bit about yourself and also feature section.
 
